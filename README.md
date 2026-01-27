@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Salut, je suis Kenza !
 
-<!--
-**kenzafb/kenzafb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en **Bac+1 DevOps** au CNAM
 
-Here are some ideas to get you started:
+## 🚀 Mes Projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 [Grabber](https://github.com/kenzafb/projet-grabber-devops)
+Script Bash + API Python pour collecter les infos système - Administration Système et Réseaux
+
+### ☕ [Auburn & Cream](https://github.com/kenzafb/auburn-cream-coffee)
+Site vitrine fictif pour un coffee shop parisien - HTML/CSS
+
+### 🎮 [Morpion en C](https://github.com/kenzafb/projet-morpion-c)
+Jeu du morpion développé en C - Algorithmique
+
+## 💻 Technologies
+Bash • Python • FastAPI • HTML • CSS • C • Git • Linux
