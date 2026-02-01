@@ -99,4 +99,10 @@ Je suis actuellement en formation **Développement et Exploitation de parc Infor
 
 ---
 
+## CV
+
+📥 **[Télécharger mon CV (PDF)](https://github.com/kenzafb/kenzafb/blob/fba80129398c79bee91912ebdf818fd1dcc86a31/CV_KENZA_FILALI-BOUAMI_2PAGES.pdf)**
+
+---
+
 💡 *"L'automatisation n'est pas une question de paresse, c'est une question d'efficacité."*
