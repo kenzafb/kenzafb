@@ -51,6 +51,6 @@ LinkedIn
 https://www.linkedin.com/in/kenza-filali-bouami
 
 Email
-[kenzafb@icloud.com](mailto:kenzafb@icloud.com)
+[kenzafilbou@gmail.com](mailto:kenzafilbou@gmail.com)
 
 ---
