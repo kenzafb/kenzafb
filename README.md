@@ -2,7 +2,8 @@
 
 Étudiante en **BUT Informatique** (2e année, parcours Réalisation d'applications) à l'**Université Sorbonne Paris Nord de Villetaneuse**, après un **DSP DevOps** (Bac+1) au **Conservatoire National des Arts et Métiers**.
 
-Je m'intéresse au développement, à l'administration Linux et à l'automatisation. Je recherche un **stage du 8 février au 18 avril 2027**, de 8 semaines minimum.
+Je m'intéresse au développement, à l'administration Linux et à l'automatisation. Je recherche un **stage du 8 février au 18 avril 2027**,de 8 semaines minimum.
+
 ---
 
 ## Compétences techniques
