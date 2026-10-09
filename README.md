@@ -1,9 +1,8 @@
 # Kenza Filali-Bouami
 
-Étudiante en **Développement et Exploitation de Parc Informatique (DevOps)** au **Conservatoire National des Arts et Métiers (CNAM)**.
+Étudiante en **BUT Informatique** (2e année, parcours Réalisation d'applications) à l'**Université Sorbonne Paris Nord de Villetaneuse**, après un **DSP DevOps** (Bac+1) au **Conservatoire National des Arts et Métiers**.
 
-Je m'intéresse particulièrement à l'administration Linux, au scripting et à l'automatisation des tâches dans des environnements système et infrastructure.
-
+Je m'intéresse au développement, à l'administration Linux et à l'automatisation. Je recherche un **stage du 8 février au 18 avril 2027**, de 8 semaines minimum.
 ---
 
 ## Compétences techniques
@@ -21,6 +20,8 @@ Je m'intéresse particulièrement à l'administration Linux, au scripting et à 
 * HTML / CSS
 * JavaScript
 * SQL
+* PHP
+* Java
 
 **Outils & DevOps**
 
@@ -40,17 +41,6 @@ Je m'intéresse particulièrement à l'administration Linux, au scripting et à 
 
 ## Objectifs
 
-* Approfondir Docker et les outils d'automatisation
-* Développer des projets orientés administration système et infrastructure
-
----
-
-## Contact
-
-LinkedIn
-https://www.linkedin.com/in/kenza-filali-bouami
-
-Email
-[kenzafilbou@gmail.com](mailto:kenzafilbou@gmail.com)
-
----
+- Trouver un stage en développement, DevOps ou administration système (février à avril 2027)
+- Approfondir Docker et les outils d'automatisation
+- Développer des projets orientés back-end et infrastructure
